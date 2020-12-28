@@ -3,5 +3,5 @@ language:
   ui:
     chapter_name: "Chapter "
 rmd_files:
-  html: ['index.rmd', '01_intro']
+  html: ['index.rmd', '01_intro.rmd']
 delete_merged_file: true

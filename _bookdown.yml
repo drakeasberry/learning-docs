@@ -2,4 +2,6 @@ book_filename: "esl_resources"
 language:
   ui:
     chapter_name: "Chapter "
+rmd_files:
+  html: ['index.rmd', '01_intro']
 delete_merged_file: true

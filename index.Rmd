@@ -1,30 +1,33 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Material for ESL/EFL Instruction"
+author: "Drake Asberry"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "This is a working example of teaching resources that I have compiled over my years of teaching experience. The output format for this example is bookdown::gitbook."
 ---
 
-# Prerequisites
+# Introduction
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+This is a website started in December 2020 as a project I started to document resources I have created or found useful over the years. The intent is that it will continue to grow and evolve while remaining portable because traveling with all these physical items is too cumbersome. I hope that others will find the resources here useful as well.
 
-The **bookdown** package can be installed from CRAN or Github:
+If you would like to contribute to this site, please submit a pull request via the [github repository](https://github.com/drakeasberry/english_learning_resources).
 
-```{r eval=FALSE}
+
+```{r eval=FALSE, include=FALSE}
+# The **bookdown** package can be installed from CRAN or Github:
 install.packages("bookdown")
 # or the development version
 # devtools::install_github("rstudio/bookdown")
+
+#Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading #`#`.
+#
+#To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes #XeLaTeX): <https://yihui.org/tinytex/>.
 ```
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

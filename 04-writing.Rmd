@@ -1,7 +1,3 @@
-# Applications
+# Writing {#write}
 
-Some _significant_ applications are demonstrated in this chapter.
-
-## Example one
-
-## Example two
+Writing materials coming soon!

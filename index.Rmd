@@ -17,7 +17,7 @@ This is a website started in December 2020 as a project I started to document re
 If you would like to contribute to this site, please submit a pull request via the [github repository](https://github.com/drakeasberry/english_learning_resources).
 
 
-```{r eval=FALSE}
+```{r eval=FALSE, include=FALSE}
 # The **bookdown** package can be installed from CRAN or Github:
 install.packages("bookdown")
 # or the development version

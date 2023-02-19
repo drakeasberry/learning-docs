@@ -1,7 +1,7 @@
 --- 
 title: "Random Learning"
 author: "Drake Asberry"
-date: "`r Sys.Date()`"
+date: "19 FEB 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

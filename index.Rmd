@@ -1,5 +1,5 @@
 --- 
-title: "Material for ESL/EFL Instruction"
+title: "Random Learning"
 author: "Drake Asberry"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,14 +7,12 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a working example of teaching resources that I have compiled over my years of teaching experience. The output format for this example is bookdown::gitbook."
+description: "This is a working example of my own learning resources that I have compiled over my years of as a learner, tinker and problem solver. The output format for this example is bookdown::gitbook."
 ---
 
 # Introduction
 
-This is a website started in December 2020 as a project I started to document resources I have created or found useful over the years. The intent is that it will continue to grow and evolve while remaining portable because traveling with all these physical items is too cumbersome. I hope that others will find the resources here useful as well.
-
-If you would like to contribute to this site, please submit a pull request via the [github repository](https://github.com/drakeasberry/english_learning_resources).
+This website was created out of a need to document my own learning process as I tackled programming challenges and problem sets. This site is to be used for educational purposes only and the author assumes no responsibility for how an end-user chooses to utilize information. The author also assumes no risk or responsibility for any damages or adverse affects to any hardware or software systems the end-user encounters as a result of using/running any code found on this website. Code is not a required maintenance obligation for the author and cannot verify whether any code contained within will operate or be run in a stable reliable environment.
 
 
 ```{r eval=FALSE, include=FALSE}

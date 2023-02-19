@@ -1,5 +1,0 @@
-# Listening {#listen}
-
-[Lyrics Training](https://lyricstraining.com/en): This website provides a unique learning experience using songs that have lyrics missing and the user must type in the missing words. It offers 4 different skill levels.
-
-[CNN10](https://www.cnn.com/cnn10): This website provides learners with real authentic news in English. It is always broken down in 10 minute videos. This is more useful in intermediate and advanced level English classes.

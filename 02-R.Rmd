@@ -1,0 +1,8 @@
+# R {#r-prog}
+## Reference Sites:
++ [**Insert R Website:**](https://www.perfect-english-grammar.com) is website where you will find a multitude of practice activities for R programming.
+
+
+## Reference Books:
+
++ **Insert R Reference Book:** This is a great reference site for R.

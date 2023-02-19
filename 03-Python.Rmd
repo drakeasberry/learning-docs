@@ -1,0 +1,8 @@
+# Python {#python}
+## Reference Sites:
++ [**Insert python Website:**](https://www.perfect-english-grammar.com) is website where you will find a multitude of practice activities for python programming.
+
+
+## Reference Books:
+
++ **Insert python Reference Book:** This is a great reference site for python.
